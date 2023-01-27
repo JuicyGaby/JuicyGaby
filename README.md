@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi there! I'm Gabe Fletcher Sanchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h2 align="center">Currently learning Frontend Development from MSU-IIT </h2>
 
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
+## <p style="display:flex; align-items: center">About Me </p>
 
 <!-- - 👨‍💻 My Portfolio - **[Manish Verma](https://manish9427.github.io/)** -->
 
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <h3>📊 Github Stats</h3>
 <br/>
 <p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=JuicyGaby&theme=dark" /> <br \>
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=JuicyGaby&theme=dark" /> <br \> <br \>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuicyGaby&show_icons=true&locale=en&theme=dark"/>
 </p>
 
