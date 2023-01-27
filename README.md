@@ -29,11 +29,12 @@ You can click the Preview link to take a look at your changes.
 <a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/></a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/></a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/></a> &nbsp;
+
 <a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/></a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python"/></a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=green" alt="django"/></a> &nbsp;
 
-</p>
 
 <h3>📊 Github Stats</h3>
 <br/>
