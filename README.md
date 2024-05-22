@@ -8,7 +8,7 @@ JuicyGaby/JuicyGaby is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi there! I'm Gabe Fletcher Sanchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h2 align="center">Currently learning Frontend Development from MSU-IIT </h2>
+<h2 align="center">Currently Working As a Fullstack Web Developer</h2>
 
 ## <p style="display:flex; align-items: center">About Me </p>
 
@@ -43,10 +43,6 @@ You can click the Preview link to take a look at your changes.
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuicyGaby&show_icons=true&locale=en&theme=dark"/>
 </p>
 
-<h3 align="center">
- Show some ❤️ by starring some of the repositories!
-</h3>
-<br>
 
 <h3 align="center"> 
   Visitor count <br \><br \>
